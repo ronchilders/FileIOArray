@@ -5,8 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace FileIOArray
-{
+{   //
+    //app to demonstrate file IO
+    //
     class Program
+
     {
         static void Main(string[] args
         {
